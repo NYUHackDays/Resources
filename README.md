@@ -16,3 +16,7 @@ Resources to teach programming at NYU
 ### Python
 
 - [3rd Edition of Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+
+### Amazon Web Services
+
+- [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
