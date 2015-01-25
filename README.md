@@ -1,6 +1,10 @@
 # Resources
 Resources to teach programming at NYU
 
+### Basics of Software Engineering
+
+- [What is Idiomatic Programming?](http://mrjoelkemp.com/2013/05/what-is-idiomatic-programming/)
+
 ### Command-Line 
 
 - [Conquering the Command Line](http://conqueringthecommandline.com/book)
