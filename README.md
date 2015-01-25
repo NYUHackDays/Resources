@@ -20,3 +20,9 @@ Resources to teach programming at NYU
 ### Amazon Web Services
 
 - [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
+
+### Machine Learning
+
+####
+
+- [How to understand the drawbacks of K-means](http://stats.stackexchange.com/questions/133656/how-to-understand-the-drawbacks-of-k-means)
