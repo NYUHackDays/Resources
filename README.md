@@ -24,6 +24,7 @@ Resources to teach programming at NYU
 ### Amazon Web Services
 
 - [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
+- [Comparing Message Queue Architectures on AWS](http://tech.forter.com/comparing-message-queue-architectures-on-aws/)
 
 ### Algorithms
 
