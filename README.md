@@ -21,6 +21,10 @@ Resources to teach programming at NYU
 
 - [Learn you some Erlang](http://learnyousomeerlang.com/content)
 
+### Swift
+
+- [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+
 ### Amazon Web Services
 
 - [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
