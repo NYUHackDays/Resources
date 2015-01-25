@@ -23,6 +23,6 @@ Resources to teach programming at NYU
 
 ### Machine Learning
 
-####
+#### K-means
 
 - [How to understand the drawbacks of K-means](http://stats.stackexchange.com/questions/133656/how-to-understand-the-drawbacks-of-k-means)
