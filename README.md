@@ -17,11 +17,15 @@ Resources to teach programming at NYU
 
 - [3rd Edition of Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
+### Erlang
+
+- [Learn you some Erlang](http://learnyousomeerlang.com/content)
+
 ### Amazon Web Services
 
 - [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
 
-### Machine Learning
+### Algorithms
 
 #### K-means
 
