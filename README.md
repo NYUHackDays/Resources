@@ -5,6 +5,10 @@ Resources to teach programming at NYU
 
 - [What is Idiomatic Programming?](http://mrjoelkemp.com/2013/05/what-is-idiomatic-programming/)
 
+### HTTP
+
+- [A Beginner's Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/)
+
 ### Command-Line 
 
 - [Conquering the Command Line](http://conqueringthecommandline.com/book)
