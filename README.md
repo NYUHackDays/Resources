@@ -13,6 +13,10 @@ Resources to teach programming at NYU
 
 - [Conquering the Command Line](http://conqueringthecommandline.com/book)
 
+### Go
+
+- [Getting Started with Golang on Docker](http://blog.tutum.co/2015/01/27/getting-started-with-golang-on-docker/)
+
 ### Node.JS
 
 - [StrongLoop Certified Node Developer Study Guide](http://strongloop.com/node-js/certification/scnd-study-guide)
