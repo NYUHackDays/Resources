@@ -17,6 +17,9 @@ Resources to teach programming at NYU
 
 ![](https://software.intel.com/sites/default/files/styles/media_thumbnail/public/gophercolor_0.png?itok=WqZLYcFe)
 
+- [Go ‘Hello World’ - A line by line approach](http://golangtutorials.blogspot.com/2011/05/very-simple-go-hello-world-line-by-line.html)
+- [Go Tour](http://tour.golang.org/)
+- [Testing in Go](http://openmymind.net/Testing-In-Go/)
 - [Go Parallel](https://software.intel.com/en-us/blogs/2013/06/18/go-parallel)
 - [Getting Started with Golang on Docker](http://blog.tutum.co/2015/01/27/getting-started-with-golang-on-docker/)
 
