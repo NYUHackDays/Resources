@@ -15,6 +15,9 @@ Resources to teach programming at NYU
 
 ### Go
 
+![](https://software.intel.com/sites/default/files/styles/media_thumbnail/public/gophercolor_0.png?itok=WqZLYcFe)
+
+- [Go Parallel](https://software.intel.com/en-us/blogs/2013/06/18/go-parallel)
 - [Getting Started with Golang on Docker](http://blog.tutum.co/2015/01/27/getting-started-with-golang-on-docker/)
 
 ### Node.JS
