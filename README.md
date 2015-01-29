@@ -24,6 +24,7 @@ Resources to teach programming at NYU
 - [Testing in Go](http://openmymind.net/Testing-In-Go/)
 - [Go Parallel](https://software.intel.com/en-us/blogs/2013/06/18/go-parallel)
 - [Getting Started with Golang on Docker](http://blog.tutum.co/2015/01/27/getting-started-with-golang-on-docker/)
+- [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ### Node.JS
 
