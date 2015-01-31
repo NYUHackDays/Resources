@@ -6,6 +6,7 @@ Resources to teach programming at NYU
 - [What is Idiomatic Programming?](http://mrjoelkemp.com/2013/05/what-is-idiomatic-programming/)
 - [Creating an efficient REST API with HTTP](http://mark-kirby.co.uk/2013/creating-a-true-rest-api/)
 - [9223372036854775807](https://en.wikipedia.org/wiki/9223372036854775807)
+- [50 UNIX / Linux Sysadmin Tutorials](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/)
 
 ### HTTP
 
