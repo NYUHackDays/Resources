@@ -35,6 +35,7 @@ Resources to teach programming at NYU
 ### Python
 
 - [3rd Edition of Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+- [11 Python Libraries You Might Not Know](http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html)
 
 ### Erlang
 
