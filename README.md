@@ -37,6 +37,10 @@ Resources to teach programming at NYU
 - [3rd Edition of Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 - [11 Python Libraries You Might Not Know](http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html)
 
+### Haskell
+
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+
 ### Erlang
 
 - [Learn you some Erlang](http://learnyousomeerlang.com/content)
