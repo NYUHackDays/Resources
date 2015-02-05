@@ -26,6 +26,7 @@ Resources to teach programming at NYU
 - [Go Parallel](https://software.intel.com/en-us/blogs/2013/06/18/go-parallel)
 - [Getting Started with Golang on Docker](http://blog.tutum.co/2015/01/27/getting-started-with-golang-on-docker/)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [What kind of Garbage Collection does Go use?](http://stackoverflow.com/questions/7823725/what-kind-of-garbage-collection-does-go-use)
 
 ### Node.JS
 
